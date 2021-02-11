@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration-line: none;
+}
+
+body  {
+    background-color: purple;
+}
+
+header {
+    background-color: white;
+}
+
+.container {
+    width: 100%;
+    align-items: center;
+}
+
+.h_container {
+    display: flex;
+    justify-content: center;
+}
+
+.h_container img {
+    width: 5%;
+}
+
+.menu_principal {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 10px;
+}
